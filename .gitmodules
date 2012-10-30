@@ -13,3 +13,6 @@
 [submodule "modules/virtualbox"]
 	path = modules/virtualbox
 	url = https://github.com/coogle/puppet-virtualbox.git
+[submodule "modules/networking"]
+	path = modules/networking
+	url = https://github.com/coogle/puppet-networking.git
