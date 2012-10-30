@@ -1,0 +1,15 @@
+[submodule "modules/zendserverce"]
+	path = modules/zendserverce
+	url = https://github.com/coogle/puppet-zendserverce.git
+[submodule "modules/git"]
+	path = modules/git
+	url = https://github.com/coogle/puppet-git.git
+[submodule "https:/github.com/coogle/puppet-virtualbox.git"]
+	path = https:/github.com/coogle/puppet-virtualbox.git
+	url = https://github.com/coogle/puppet-virtualbox.git
+[submodule "modules/basic"]
+	path = modules/basic
+	url = https://github.com/coogle/puppet-basic.git
+[submodule "modules/virtualbox"]
+	path = modules/virtualbox
+	url = https://github.com/coogle/puppet-virtualbox.git
